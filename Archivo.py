@@ -1,2 +1,2 @@
 class python(scene)
-	ocupe
+	self.play
